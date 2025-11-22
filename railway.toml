@@ -1,0 +1,5 @@
+version: 2
+
+build:
+  buildCommand: pip install -r requirements.txt
+  startCommand: python vitamin_bot.py
